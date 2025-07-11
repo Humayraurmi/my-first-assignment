@@ -8,7 +8,9 @@
 }
 .header{
     background-image: url('../Assets/Hero-bg.png');
-    min-height: 80vh;
+    padding-bottom: 200px;
+    max-width: 1440px;
+    max-height: 698px;
 }
 body{
     background-color: rgba(245, 245, 245, 0.8);
@@ -34,6 +36,12 @@ nav{
     border-radius: 5px;
     border: none;
 }
+.banner-content h1{
+    font-size: 65px;
+    font-weight: bold;
+    height: 152px;
+    width: 905px;
+}
 .banner-content{
     text-align: center;
     padding-top: 30px;
@@ -46,6 +54,7 @@ nav{
 }
 .banner{
     margin: 30px 267px;
+    padding: 37px;
 }
 
 .section-title{
