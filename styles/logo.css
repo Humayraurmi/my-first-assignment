@@ -1,7 +1,7 @@
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400px;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -205,6 +205,9 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border-radius: 10px;
     border: none;
     width: 100%;
+}
+footer input[type="submit"]{
+    width: 105%;
 }
 .last-footer-section{
     text-align: center;
