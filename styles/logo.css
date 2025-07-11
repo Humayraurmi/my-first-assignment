@@ -206,9 +206,6 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border: none;
     width: 100%;
 }
-footer input[type="submit"]{
-    width: 105%;
-}
 .last-footer-section{
     text-align: center;
     padding: 50px 10px;
